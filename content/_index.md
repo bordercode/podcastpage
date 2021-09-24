@@ -2,11 +2,11 @@
 title: Make the Web Fun Again
 ---
 
-# Hugo
+# Welcome
 
-## Make the Web Fun Again
+## First episode
 
-Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.
+In this first episode we tallk about a public Health issue. 
 
 ## Run Anywhere
 

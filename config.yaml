@@ -10,8 +10,8 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Your Name"
-  url: "https://example.org/somepage"
+  name: "Jose Luis Manzanares"
+  url: "https://libreparaelegir.netlify.app/"
   avatar: "path/to/some-image.jpg"
 
 outputFormats:
