@@ -1,12 +1,17 @@
 ---
-title: Make the Web Fun Again
+title: Independent analysis and inclusive discussions to gain undestanding.
 ---
+
 
 # Welcome
 
 ## First episode
 
 In this first episode we tallk about a public Health issue. 
+
+Understanding Colon cancer trends in Mexico.
+
+Join the discussion!!
 
 ## Run Anywhere
 
