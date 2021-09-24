@@ -1,5 +1,5 @@
 ---
-title: Independent analysis and inclusive discussions to gain understanding.
+title: Independent
 ---
 
 
@@ -7,7 +7,7 @@ title: Independent analysis and inclusive discussions to gain understanding.
 
 ## First episode
 
-In this first episode we tallk about a public Health issue. 
+In this first episode we talk about a public Health issue. 
 
 Understanding Colon cancer trends in Mexico.
 
