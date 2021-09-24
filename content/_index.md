@@ -1,5 +1,5 @@
 ---
-title: Independent analysis and inclusive discussions to gain understanding.
+title: Independent
 ---
 
 
