@@ -1,6 +1,6 @@
 ---
 title: "Libre para elegir"
-baseURL: "https://example.org/"
+baseURL: "https://libreparaelegir.netlify.app"
 theme: "hugo-theme-zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
