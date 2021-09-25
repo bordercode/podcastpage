@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://libreparaelegir.netlify.app/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://libreparaelegir.netlify.app/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/plot/</loc>
+    <loc>https://libreparaelegir.netlify.app/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://libreparaelegir.netlify.app/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/r/</loc>
+    <loc>https://libreparaelegir.netlify.app/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/r-markdown/</loc>
+    <loc>https://libreparaelegir.netlify.app/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/regression/</loc>
+    <loc>https://libreparaelegir.netlify.app/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://libreparaelegir.netlify.app/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://libreparaelegir.netlify.app/documentation/configuration/</loc>
   </url><url>
-    <loc>https://example.org/documentation/configuration/</loc>
+    <loc>https://libreparaelegir.netlify.app/contact/</loc>
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>https://libreparaelegir.netlify.app/documentation/create-theme/</loc>
   </url><url>
-    <loc>https://example.org/documentation/create-theme/</loc>
+    <loc>https://libreparaelegir.netlify.app/about/</loc>
   </url><url>
-    <loc>https://example.org/documentation/</loc>
+    <loc>https://libreparaelegir.netlify.app/documentation/</loc>
   </url><url>
-    <loc>https://example.org/documentation/install/</loc>
+    <loc>https://libreparaelegir.netlify.app/documentation/install/</loc>
   </url><url>
-    <loc>https://example.org/documentation/quickstart/</loc>
+    <loc>https://libreparaelegir.netlify.app/documentation/quickstart/</loc>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>https://libreparaelegir.netlify.app/search/</loc>
   </url>
 </urlset>

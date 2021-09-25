@@ -1,17 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Independent analysis and inclusive discussions to gain understanding. on Libre para elegir",
-    "description": "Recent content in Independent analysis and inclusive discussions to gain understanding. on Libre para elegir",
-    "home_page_url": "https://example.org/",
-    "feed_url": "https://example.org/index.json",
+    "title": "Independent on Libre para elegir",
+    "description": "Recent content in Independent on Libre para elegir",
+    "home_page_url": "https://libreparaelegir.netlify.app",
+    "feed_url": "https://libreparaelegir.netlify.app/index.json",
     "language": "en-GB",
-    "icon": "https://example.org/apple-touch-icon.png",
-    "favicon": "https://example.org/apple-touch-icon.png",
+    "icon": "https://libreparaelegir.netlify.app/apple-touch-icon.png",
+    "favicon": "https://libreparaelegir.netlify.app/apple-touch-icon.png",
     "authors": [
         {
             "name": "Jose Luis Manzanares",
             "url": "https://libreparaelegir.netlify.app/",
-            "avatar": "https://example.org/path/to/some-image.jpg"
+            "avatar": "https://libreparaelegir.netlify.app/path/to/some-image.jpg"
         }
     ],
     "items": [
@@ -19,29 +19,21 @@
             "title": "Hello R Markdown",
             "date_published": "2020-12-01T21:13:14-05:00",
             "date_modified": "2020-12-01T21:13:14-05:00",
-            "id": "https://example.org/post/2020-12-01-r-rmarkdown/",
-            "url": "https://example.org/post/2020-12-01-r-rmarkdown/",
+            "id": "https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/",
+            "url": "https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/",
             "authors": [
                 {
                   "name": "Frida Gomam"
                 }
             ],
-            "content_html": "\r\n\u003cscript src=\"https://example.org/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js\"\u003e\u003c/script\u003e\r\n\r\n\r\n\u003cdiv id=\"r-markdown\" class=\"section level1\"\u003e\r\n\u003ch1\u003eR Markdown\u003c/h1\u003e\r\n\u003cp\u003eThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see \u003ca href=\"http://rmarkdown.rstudio.com\" class=\"uri\"\u003ehttp://rmarkdown.rstudio.com\u003c/a\u003e.\u003c/p\u003e\r\n\u003cp\u003eYou can embed an R code chunk like this:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003esummary(cars)\r\n##      speed           dist       \r\n##  Min.   : 4.0   Min.   :  2.00  \r\n##  1st Qu.:12.0   1st Qu.: 26.00  \r\n##  Median :15.0   Median : 36.00  \r\n##  Mean   :15.4   Mean   : 42.98  \r\n##  3rd Qu.:19.0   3rd Qu.: 56.00  \r\n##  Max.   :25.0   Max.   :120.00\r\nfit \u0026lt;- lm(dist ~ speed, data = cars)\r\nfit\r\n## \r\n## Call:\r\n## lm(formula = dist ~ speed, data = cars)\r\n## \r\n## Coefficients:\r\n## (Intercept)        speed  \r\n##     -17.579        3.932\u003c/code\u003e\u003c/pre\u003e\r\n\u003c/div\u003e\r\n\u003cdiv id=\"including-plots\" class=\"section level1\"\u003e\r\n\u003ch1\u003eIncluding Plots\u003c/h1\u003e\r\n\u003cp\u003eYou can also embed plots. See Figure \u003ca href=\"#fig:pie\"\u003e1\u003c/a\u003e for example:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003epar(mar = c(0, 1, 0, 1))\r\npie(\r\n  c(280, 60, 20),\r\n  c(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\r\n  col = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\r\n  init.angle = -50, border = NA\r\n)\u003c/code\u003e\u003c/pre\u003e\r\n\u003cdiv class=\"figure\"\u003e\u003cspan style=\"display:block;\" id=\"fig:pie\"\u003e\u003c/span\u003e\r\n\u003cimg src=\"https://example.org/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png\" alt=\"A fancy pie chart.\" width=\"672\" /\u003e\r\n\u003cp class=\"caption\"\u003e\r\nFigure 1: A fancy pie chart.\r\n\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n"
-        },
-        {
-            "title": "About",
-            "date_published": "0001-01-01T00:00:00Z",
-            "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/about/",
-            "url": "https://example.org/about/",
-            "content_html": "\u003cp\u003eThis is a Podcast primarily designed to share evidence driven research conducted using  data science tools.\u003c/p\u003e\n\u003cp\u003eIs a non profit initiative that  has been created to gather insights from the community.\u003c/p\u003e\n\u003cp\u003eWe look forward to connect people who value independent analysis and freedom of speech.\u003c/p\u003e\n\u003cp\u003eLegal disclaimer\u003c/p\u003e\n\u003cp\u003eViews expressed in this audio project reflect the participants personal opinions and does not represent any institution philosophy either academic nor government sponsored.\u003c/p\u003e\n"
+            "content_html": "\r\n\u003cscript src=\"https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js\"\u003e\u003c/script\u003e\r\n\r\n\r\n\u003cdiv id=\"r-markdown\" class=\"section level1\"\u003e\r\n\u003ch1\u003eR Markdown\u003c/h1\u003e\r\n\u003cp\u003eThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see \u003ca href=\"http://rmarkdown.rstudio.com\" class=\"uri\"\u003ehttp://rmarkdown.rstudio.com\u003c/a\u003e.\u003c/p\u003e\r\n\u003cp\u003eYou can embed an R code chunk like this:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003esummary(cars)\r\n##      speed           dist       \r\n##  Min.   : 4.0   Min.   :  2.00  \r\n##  1st Qu.:12.0   1st Qu.: 26.00  \r\n##  Median :15.0   Median : 36.00  \r\n##  Mean   :15.4   Mean   : 42.98  \r\n##  3rd Qu.:19.0   3rd Qu.: 56.00  \r\n##  Max.   :25.0   Max.   :120.00\r\nfit \u0026lt;- lm(dist ~ speed, data = cars)\r\nfit\r\n## \r\n## Call:\r\n## lm(formula = dist ~ speed, data = cars)\r\n## \r\n## Coefficients:\r\n## (Intercept)        speed  \r\n##     -17.579        3.932\u003c/code\u003e\u003c/pre\u003e\r\n\u003c/div\u003e\r\n\u003cdiv id=\"including-plots\" class=\"section level1\"\u003e\r\n\u003ch1\u003eIncluding Plots\u003c/h1\u003e\r\n\u003cp\u003eYou can also embed plots. See Figure \u003ca href=\"#fig:pie\"\u003e1\u003c/a\u003e for example:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003epar(mar = c(0, 1, 0, 1))\r\npie(\r\n  c(280, 60, 20),\r\n  c(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\r\n  col = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\r\n  init.angle = -50, border = NA\r\n)\u003c/code\u003e\u003c/pre\u003e\r\n\u003cdiv class=\"figure\"\u003e\u003cspan style=\"display:block;\" id=\"fig:pie\"\u003e\u003c/span\u003e\r\n\u003cimg src=\"https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png\" alt=\"A fancy pie chart.\" width=\"672\" /\u003e\r\n\u003cp class=\"caption\"\u003e\r\nFigure 1: A fancy pie chart.\r\n\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n"
         },
         {
             "title": "Configuration",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/documentation/configuration/",
-            "url": "https://example.org/documentation/configuration/",
+            "id": "https://libreparaelegir.netlify.app/documentation/configuration/",
+            "url": "https://libreparaelegir.netlify.app/documentation/configuration/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -53,16 +45,16 @@
             "title": "Contact",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/contact/",
-            "url": "https://example.org/contact/",
+            "id": "https://libreparaelegir.netlify.app/contact/",
+            "url": "https://libreparaelegir.netlify.app/contact/",
             "content_html": "\u003cp class=\"error message js-hidden\"\u003eYou must have Javascript enabled to use this function.\u003c/p\u003e\n\u003cp class=\"contact-submitted status message hidden\"\u003eYour message was sent.\u003c/p\u003e\n\u003cp class=\"contact-error error message hidden\"\u003eThere was an error sending the message.\u003c/p\u003e\n\n\u003cform class=\"contact-form hidden\" action=\"#\" method=\"post\" accept-charset=\"UTF-8\"\u003e\n  \u003clabel for=\"edit-name\"\u003eName\u003c/label\u003e\n  \u003cinput type=\"text\" id=\"edit-name\" name=\"name\" placeholder=\"Your name\" tabindex=\"1\" required autofocus\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003clabel for=\"edit-mail\"\u003eE-mail address\u003c/label\u003e\n  \u003cinput type=\"email\" id=\"edit-mail\" name=\"email\" placeholder=\"Your e-mail address\" tabindex=\"2\" required\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003cinput type=\"text\" id=\"edit-url\" class=\"hidden\" name=\"url\" placeholder=\"Skip if you are a human\"\u003e\n  \u003clabel for=\"edit-subject\"\u003eSubject\u003c/label\u003e\n  \u003cinput type=\"text\" id=\"edit-subject\" name=\"subject\" placeholder=\"A short subject\" tabindex=\"3\" required\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003clabel for=\"edit-message\"\u003eMessage\u003c/label\u003e\n  \u003ctextarea id=\"edit-message\" name=\"message\" rows=\"5\" placeholder=\"The messages goes here…\" tabindex=\"4\" required\u003e\u003c/textarea\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003cbutton type=\"submit\" name=\"submit\" class=\"form-submit\" disabled\u003eSend message\u003c/button\u003e\n\u003c/form\u003e\n\n"
         },
         {
             "title": "Create a theme",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/documentation/create-theme/",
-            "url": "https://example.org/documentation/create-theme/",
+            "id": "https://libreparaelegir.netlify.app/documentation/create-theme/",
+            "url": "https://libreparaelegir.netlify.app/documentation/create-theme/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -71,11 +63,19 @@
             "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
         },
         {
+            "title": "De qué se trata?",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "https://libreparaelegir.netlify.app/about/",
+            "url": "https://libreparaelegir.netlify.app/about/",
+            "content_html": "\u003cp\u003eThis is a Podcast primarily designed to share evidence driven research conducted using  data science tools.\u003c/p\u003e\n\u003cp\u003eIs a non profit initiative that  has been created to gather insights from the community.\u003c/p\u003e\n\u003cp\u003eWe look forward to connect people who value independent analysis and freedom of speech.\u003c/p\u003e\n\u003cp\u003eLegal disclaimer\u003c/p\u003e\n\u003cp\u003eViews expressed in this audio project reflect the participants personal opinions and does not represent any institution philosophy either academic nor government sponsored.\u003c/p\u003e\n"
+        },
+        {
             "title": "Installation",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/documentation/install/",
-            "url": "https://example.org/documentation/install/",
+            "id": "https://libreparaelegir.netlify.app/documentation/install/",
+            "url": "https://libreparaelegir.netlify.app/documentation/install/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -87,8 +87,8 @@
             "title": "Quickstart",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/documentation/quickstart/",
-            "url": "https://example.org/documentation/quickstart/",
+            "id": "https://libreparaelegir.netlify.app/documentation/quickstart/",
+            "url": "https://libreparaelegir.netlify.app/documentation/quickstart/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -100,8 +100,8 @@
             "title": "Search",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "https://example.org/search/",
-            "url": "https://example.org/search/",
+            "id": "https://libreparaelegir.netlify.app/search/",
+            "url": "https://libreparaelegir.netlify.app/search/",
             "content_html": "\u003cp class=\"error message js-hidden\"\u003eYou must have Javascript enabled to use this function.\u003c/p\u003e\n\u003cp class=\"search-loading status message hidden\"\u003eLoading search index…\u003c/p\u003e\n\n\u003cdiv class=\"search-input hidden\"\u003e\n  \u003cform id=\"search-form\" class=\"search-form\" action=\"#\" method=\"post\" accept-charset=\"UTF-8\" role=\"search\"\u003e\n    \u003clabel for=\"query\" class=\"visually-hidden\"\u003eSearch\u003c/label\u003e\n    \u003cinput type=\"search\" id=\"query\" name=\"query\" class=\"search-text\" placeholder=\"Enter the terms you wish to search for.\" maxlength=\"128\"\u003e\n    \u003cbutton type=\"submit\" name=\"submit\" class=\"form-submit\" \u003eSearch\u003c/button\u003e\n  \u003c/form\u003e\n\u003c/div\u003e\n\n\u003cdiv class=\"search-results\"\u003e\u003c/div\u003e\n\n\u003ctemplate\u003e\n  \u003carticle class=\"search-result list-view\"\u003e\n    \u003cheader\u003e\n      \u003ch2 class=\"title title-submitted\"\u003e\u003ca href=\"#\"\u003eTitle here\u003c/a\u003e\u003c/h2\u003e\n      \u003cdiv class=\"submitted\"\u003e\u003ctime class=\"created-date\"\u003eDate here\u003c/time\u003e\u003c/div\u003e\n    \u003c/header\u003e\n    \u003cdiv class=\"content\"\u003eSummary here\u003c/div\u003e\n  \u003c/article\u003e\n\u003c/template\u003e\n\n"
         }
         ]

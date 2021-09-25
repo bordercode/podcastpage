@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Independent analysis and inclusive discussions to gain understanding. on Libre para elegir</title>
-    <link>https://example.org/</link>
-    <description>Recent content in Independent analysis and inclusive discussions to gain understanding. on Libre para elegir</description>
+    <title>Independent on Libre para elegir</title>
+    <link>https://libreparaelegir.netlify.app/</link>
+    <description>Recent content in Independent on Libre para elegir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://libreparaelegir.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;https://example.org/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -51,7 +51,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://example.org/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://libreparaelegir.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -61,32 +61,19 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://example.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>&lt;p&gt;This is a Podcast primarily designed to share evidence driven research conducted using  data science tools.&lt;/p&gt;
-&lt;p&gt;Is a non profit initiative that  has been created to gather insights from the community.&lt;/p&gt;
-&lt;p&gt;We look forward to connect people who value independent analysis and freedom of speech.&lt;/p&gt;
-&lt;p&gt;Legal disclaimer&lt;/p&gt;
-&lt;p&gt;Views expressed in this audio project reflect the participants personal opinions and does not represent any institution philosophy either academic nor government sponsored.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Configuration</title>
-      <link>https://example.org/documentation/configuration/</link>
+      <link>https://libreparaelegir.netlify.app/documentation/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/documentation/configuration/</guid>
+      <guid>https://libreparaelegir.netlify.app/documentation/configuration/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>https://libreparaelegir.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/contact/</guid>
+      <guid>https://libreparaelegir.netlify.app/contact/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;
 &lt;p class=&#34;contact-submitted status message hidden&#34;&gt;Your message was sent.&lt;/p&gt;
 &lt;p class=&#34;contact-error error message hidden&#34;&gt;There was an error sending the message.&lt;/p&gt;
@@ -109,36 +96,49 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Create a theme</title>
-      <link>https://example.org/documentation/create-theme/</link>
+      <link>https://libreparaelegir.netlify.app/documentation/create-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/documentation/create-theme/</guid>
+      <guid>https://libreparaelegir.netlify.app/documentation/create-theme/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Installation</title>
-      <link>https://example.org/documentation/install/</link>
+      <title>De qué se trata?</title>
+      <link>https://libreparaelegir.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/documentation/install/</guid>
+      <guid>https://libreparaelegir.netlify.app/about/</guid>
+      <description>&lt;p&gt;This is a Podcast primarily designed to share evidence driven research conducted using  data science tools.&lt;/p&gt;
+&lt;p&gt;Is a non profit initiative that  has been created to gather insights from the community.&lt;/p&gt;
+&lt;p&gt;We look forward to connect people who value independent analysis and freedom of speech.&lt;/p&gt;
+&lt;p&gt;Legal disclaimer&lt;/p&gt;
+&lt;p&gt;Views expressed in this audio project reflect the participants personal opinions and does not represent any institution philosophy either academic nor government sponsored.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://libreparaelegir.netlify.app/documentation/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://libreparaelegir.netlify.app/documentation/install/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quickstart</title>
-      <link>https://example.org/documentation/quickstart/</link>
+      <link>https://libreparaelegir.netlify.app/documentation/quickstart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/documentation/quickstart/</guid>
+      <guid>https://libreparaelegir.netlify.app/documentation/quickstart/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://example.org/search/</link>
+      <link>https://libreparaelegir.netlify.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/search/</guid>
+      <guid>https://libreparaelegir.netlify.app/search/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;
 &lt;p class=&#34;search-loading status message hidden&#34;&gt;Loading search index…&lt;/p&gt;
 
