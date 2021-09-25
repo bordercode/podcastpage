@@ -3,7 +3,7 @@ title: Independent
 ---
 
 
-# Welcome 1
+# Welcome to the show
 
 ## First episode
 
