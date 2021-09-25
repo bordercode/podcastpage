@@ -33,7 +33,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  footer: "Created with passion by [insightAnalytics](https://insight4health.netlify.app/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
